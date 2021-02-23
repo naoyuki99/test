@@ -1,0 +1,85 @@
+#home{
+  background-image: url(bitcoin-haikei.png);
+  min-height: 100vh;
+}
+
+#money {
+  background-image: url(densi.png);
+  height: 270px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 41px;
+  color:#00a5dd;
+  font-family: 'Hanalei Fill', cursive;
+  font-family: 'Noto Serif JP', serif;
+  margin-bottom: 40px;
+
+}
+
+p {
+  font-size: 25px;
+  font-family: 'Hanalei Fill', cursive;
+  font-family: 'Noto Serif JP', serif;
+  margin-left: 30px;
+  line-height: 60px;
+  text-align: center;
+}
+
+.top-header {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Hanalei Fill', cursive;
+font-family: 'Sawarabi Mincho', sans-serif;
+  color: #5c73b7
+}
+
+.top-header2 {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Hanalei Fill', cursive;
+font-family: 'Sawarabi Mincho', sans-serif;
+  color: #ffffff;
+  }
+
+.link A {
+  font-size: 24px;
+  margin: 10px;
+}
+
+.article1 {
+  margin: 400px 280px 0px;
+}
+
+.img {
+  margin: 140px 10px  10px 0px;
+  display: flex;
+}
+
+.article2 {
+  margin: 400px 280px 0px;
+}
+
+
+.article3 {
+  margin: 400px 280px 0px;
+}
+
+.article4 {
+  margin: 400px 280px 0px;
+}
+
+.article4-1 h3 {
+  margin-top: 100px;
+  font-size: 25px;
+  color: #d52f25;
+}
+
+.article4-1 {
+  margin-top: 150px;
+}
+
+.article5{
+  margin: 400px 280px 100px;
+}

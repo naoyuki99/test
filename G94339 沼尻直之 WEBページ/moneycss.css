@@ -1,0 +1,75 @@
+#money {
+  background-image: url(densi.png);
+  height: 270px;
+  margin-bottom:20px;
+}
+
+h2 {
+  font-size: 41px;
+  color:#faa61a;
+  font-family: 'Hanalei Fill', cursive;
+  font-family: 'Noto Serif JP', serif;
+
+}
+
+h3 {
+  font-size: 34px;
+  color: #ed1c24;
+  font-family:  'Hanalei Fill', cursive;
+  font-family: 'Noto Serif JP', serif;
+  margin-top: 120px;
+}
+
+p {
+  font-size: 25px;
+  font-family: 'Hanalei Fill', cursive;
+  font-family: 'Noto Serif JP', serif;
+  line-height: 60px;
+}
+
+li {
+  margin: 20px 0px 10px
+}
+
+.top-header {
+  text-align: center;
+  padding-top: 55px;;
+  font-size: 28px;
+  font-family: 'Hanalei Fill', cursive;
+font-family: 'Sawarabi Mincho', sans-serif;
+  color: #ffffff;
+  margin-bottom: 210px;
+  }
+
+  .merit {
+    margin-bottom: 230px;
+  }
+
+  .article{
+    margin: 0px 0px 190px 130px;
+  }
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+ article{
+   width: 85%;
+ }
+
+ .article-1 {
+   margin-left: 60px;
+ }
+
+  aside{
+    width: 100%;
+  }
+
+  .link {
+    margin-left: 90px;
+  }
+
+  .end {
+    text-align: center;
+  }

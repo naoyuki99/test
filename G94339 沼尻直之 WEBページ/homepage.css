@@ -1,0 +1,53 @@
+  .area1 p{
+    width:auto;
+    border:1px solid:#ddd;
+    overflow: hidden;
+  }
+
+  .test1 p{
+   width: 1500px;
+   padding-left:1500px;
+   white-space : nowrap;
+   line-height: 1.7;
+   color: #f0821e;
+     font-size: 32px;
+     font-weight: bold;
+     font-family: 'Open Sans Condensed', sans-serif;
+
+  animation-name:scroll;
+  animation-duration:15s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  }
+
+  .maintext {
+    text-align: center;
+    margin-top: 5%;}
+
+  .maintext h1{
+    color: #f15922;
+    font-family:'Sawarabi Mincho', sans-serif;
+    font-size: 41px;
+    margin-bottom: 120px;
+  }
+
+  .maintext p{
+    margin-top: 15px;
+    font-size: 21px;
+  }
+
+  .coverimage {
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+
+  #home{
+    background-image: url(haikei1.png);
+    min-height: 100vh;
+  }
+
+  @keyframes scroll{
+  0% { transform: translateX(0)}
+  100% { transform: translateX(-100%)}
+  }
